@@ -6,5 +6,5 @@ Experimental Design 11 Blocks: Practice (1 block) Training (8 blocks) Transfer (
 
 Participants responded with either the right index or middle on a serial response box to two face stimuli shown on a computer screen. During training half of the stimulus pairs yielded a reward if performed correctly within the 3 second trial limit, while the remaining chords only yielded positive feedback if performed correctly within the time limit. Incorrect or late repsonses yielded negative feedback. The sole transfer block was identical to the training blocks except that feedback was not given. The questionnaire was identical to Experiment 1
 
-The data (Freedberg_2017.csv) and code (Freedberg_2017.ipynb) provided are intended to be used in a Jupyter notebook on Google Colab.
+The data (Reward_Learning_and_PD.csv) and code (Reward_Learning_and_PD.ipynb) provided are intended to be used in a Jupyter notebook on Google Colab.
 
